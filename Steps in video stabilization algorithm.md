@@ -15,3 +15,5 @@ Test the model: Test the final model on the test set to evaluate its performance
 Deploy the model: Once the model has been trained and tested, it can be deployed in a production environment. The model can be used to stabilize videos in real-time or batch processing mode.
 
 The above steps provide a general overview of how to train a video stabilization model using a dataset. However, the specific implementation details and tools may vary depending on the deep learning framework and model architecture used.
+
+Pull requests are welcome.
